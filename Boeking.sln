@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boeking", "Boeking\Boeking.csproj", "{24B2B9B6-DA8E-4793-93AB-D8D7AB3AB91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B2B9B6-DA8E-4793-93AB-D8D7AB3AB91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B2B9B6-DA8E-4793-93AB-D8D7AB3AB91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B2B9B6-DA8E-4793-93AB-D8D7AB3AB91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B2B9B6-DA8E-4793-93AB-D8D7AB3AB91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C23BE6-3533-4F85-90D2-D69812F2AA93}
+	EndGlobalSection
+EndGlobal
