@@ -1,0 +1,16 @@
+﻿@model Boeking.Models.HotelB
+@{
+    ViewData["Title"] = "boeken";
+    Layout = "";
+}
+
+
+<div>HotelKamer boeken</div>
+
+<form name="aanmelding" action="/administratie/aanmeldingverwerken"
+      method="get">
+    <div>Naam: <input name="naam" type="text" /></div>
+    <div>Achternaam: <input name="achternaam" type="text" /></div>
+    <div><input type="submit" value="Aanmelden" /></div>
+</form>
+
